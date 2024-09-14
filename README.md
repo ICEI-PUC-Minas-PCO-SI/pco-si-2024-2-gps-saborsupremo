@@ -1,22 +1,25 @@
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# Projeto ERP Sabor Supremo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Este projeto visa a implementação de um sistema ERP para integrar e otimizar os processos de uma empresa do setor alimentício, promovendo a centralização de dados e aprimorando a eficiência em áreas críticas como produção, logística, vendas e controle de qualidade. Com a centralização das informações, será possível reduzir erros operacionais, melhorar a comunicação entre os setores e automatizar fluxos de trabalho, tornando as operações mais ágeis e eficazes.
+
+A justificativa para este projeto baseia-se na necessidade de eliminar a fragmentação de informações, aumentar a precisão nos processos e facilitar a tomada de decisões estratégicas. A empresa enfrentará melhorias significativas na produtividade e controle, garantindo maior competitividade no mercado ao otimizar o uso de seus recursos e aprimorar a gestão de suas operações.
 
 > Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* [Bárbara Xavier Soares de Barros](https://github.com/barbara-xavier)
+* [Gabriella Dantas de Abreu Fandim](https://github.com/gabriellaxdantas)
+* [Jean Estanislau de Souza Guimarães](https://github.com/Estanislau-Jean)
+* [Nicolas Matheus Ferreira](https://github.com/NicolasMatheusFerreira)
+* [Pedro Henrique Morais de Assis](https://github.com/MoraisPedroo)
+* [Pedro Siqueira Pereira Bitarães](https://github.com/pedrosiqueirapb)
 
 ## Professor responsável
 
-* Nome do(a) professor(a)
+* Amália Soares Vieira de Vasconcelos
 
 ## Gerenciamento do Projeto
 
