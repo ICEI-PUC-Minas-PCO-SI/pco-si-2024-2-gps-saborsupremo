@@ -41,9 +41,9 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A empresa Sabor Supremo enfrenta sérias dificuldades na gestão de seus processos e na organização centralizada das informações relacionadas a clientes, produção, estoque, vendas, controle de qualidade, logística e exportação. Atualmente, essas informações são armazenadas de maneira descentralizada, com colaboradores mantendo dados em máquinas locais, planilhas e arquivos acessíveis apenas individualmente. Isso resulta em uma falta de integração e compartilhamento eficaz de informações entre os setores da empresa. Além disso, embora os processos estejam documentados, muitos ainda são executados incorretamente, prejudicando a eficiência e a qualidade do trabalho.
 
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
+> Problema corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
 > Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
 > Nesta seção, deve ser descrito apenas o problema e seu contexto.
@@ -51,7 +51,8 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O objetivo geral deste projeto é otimizar os processos de negócio da organização, centralizando-os em uma única plataforma integrada, que assegure a execução correta e eficiente das atividades, além de proporcionar acesso unificado às informações da empresa para todos os colaboradores.  
+Os objetivos específicos deste projeto incluem garantir a centralização e padronização das informações de todos os setores, permitindo um acesso controlado e em tempo real. Além disso, busca-se reduzir a ocorrência de erros nos processos operacionais por meio da automação e validação dos fluxos de trabalho. Outro objetivo é facilitar a colaboração entre as equipes, integrando os dados e processos em um sistema único e centralizado. Por fim, o projeto visa proporcionar relatórios gerenciais precisos e atualizados, apoiando a tomada de decisões estratégicas da empresa.
 
 > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
@@ -63,7 +64,7 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A solução proposta não apenas atende à demanda por um sistema mais organizado e integrado, mas também oferece benefícios significativos, como maior controle e visibilidade sobre as operações, agilidade na execução dos processos, e melhor alinhamento entre os setores. Com a centralização das informações, espera-se uma redução de custos operacionais, maior precisão na gestão de recursos e um ambiente de trabalho mais colaborativo. Esses ganhos contribuirão diretamente para o aumento da eficiência, competitividade e crescimento sustentável da empresa no mercado alimentício.
 
 > Aqui você deve descrever os benefícios esperados pela construção do projeto.
 > As justificativas do projeto explicam as razões e a necessidade da iniciativa.
@@ -72,9 +73,10 @@
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Os critérios de sucesso do projeto serão avaliados pela entrega dentro do prazo e orçamento estabelecidos, garantindo a centralização e integração dos processos empresariais conforme planejado. A satisfação dos colaboradores e gestores será medida pela aceitação e facilidade de uso do sistema, refletida em maior adesão às novas práticas.  
+A qualidade do sistema será verificada pela redução de erros operacionais e melhoria no fluxo de trabalho, além da geração de relatórios precisos e atualizados para apoiar a tomada de decisões. O sucesso também dependerá da eficiente gestão de recursos e da mitigação de riscos durante a implantação.
 
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
+> Os critérios de sucesso indicam uma forma de avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
 > Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
 
@@ -91,14 +93,21 @@
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+|Bárbara Barros               |Auxiliar de produção                 |Identificar requisitos para o módulo de produção               |barbara.barros@saborsupremo.com             |(31) 3473-4239             |
+|Nicolas Ferreira                 |Analista de Qualidade                 |Identificar requisitos para o módulo de qualidade               |nicolas.ferreira@saborsupremo.com             |(31) 3429-0654             |
+|Pedro de Assis                 |Vendedor                 |Identificar requisitos para o módulo de vendas               |pedro.assis@saborsupremo.com             |(31) 3448-3126             |
+|Melissa Pereira                 |Especialista em Finanças                 |Identificar requisitos para o módulo financeiro               |melissa.pereira@saborsupremo.com             |(31) 3475-1285             |
+|Paulo Martins                 |Coordenador de Suprimentos                 |Identificar requisitos para o módulo de gestão de materiais               |paulo.martins@saborsupremo.com             |(31) 3476-0913             |
+|Jéssica Ramos                 |Coordenadora de Produção                 |Validar o funcionamento do módulo de produção               |jessica.ramos@saborsupremo.com             |(31) 3402-3678             |
+|Leandro Carrijo                 |Vendedor                 |Validar o funcionamento do módulo de vendas               |leandro.carrijo@saborsupremo.com             |(31) 3487-2953             |
+|Ruan Gomes                 |Planejador de Qualidade                 |Validar o funcionamento do módulo de qualidade               |ruan.gomes@saborsupremo.com             |(31) 3419-9825             |  
+|Gislene Araújo                 |Analista Financeiro                 |Validar o funcionamento do módulo financeiro               |gislene.araujo@saborsupremo.com             |(31) 3455-2731             |  
+|Mateus Lima                 |Analista de Inventário                 |Validar o funcionamento do módulo de gestão de materiais               |mateus.lima@saborsupremo.com             |(31) 3491-1652             |  
+|Gabriella Fandim                 |Analista de Negócios                 |Avaliar o processo de negócios no sistema               |gabriella.fandim@saborsupremo.com             |(31) 3498-5432             |  
+|Igor Sampaio                 |Vendedor                 |Detalhar os processos de venda interna               |igor.sampaio@saborsupremo.com             |(31) 3428-7601             |  
+|Wagner Silveira                 |Gerente de Exportação                 |Detalhar os processos de exportação               |wagner.silveira@saborsupremo.com             |(31) 3409-2313             |  
+|Jean Guimarães                 |Gerente de Logística                 |Detalhar os processos de logística               |jean.guimaraes@saborsupremo.com             |(31) 3493-7632             |  
+|Jackson Souza                 |Analista de Sistemas                 |Treinamento dos usuários               |jackson.souza@saborsupremo.com             |(31) 3473-4917             |
 
 > Opções de identificação dos stakeholders:
 > - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
@@ -113,14 +122,21 @@
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+|Bárbara Barros                 |Levantar processos de fabricação, controle de produção e integração com estoque e compras                        |Média               |Baixa                     |Apoiador            |               |
+|Nicolas Ferreira                 |Analisar processos de controle de qualidade, inspeções, auditorias e gestão de não conformidades para atender aos padrões exigidos                        |Alta               |Média                     |Apoiador             |               |
+|Pedro de Assis                 |Coletar informações sobre o ciclo de vendas, integração com CRM, políticas de preços e faturamento                        |Média               |Baixa                     |Apoiador             |               |
+|Melissa Pereira                 |Detalhar processos financeiros, como contabilidade, fluxo de caixa e conformidade fiscal                        |Média               |Média                     |Apoiador             |               |
+|Paulo Martins                 |Definir necessidades de controle de inventário, compras, fornecedores e movimentação de estoque                        |Alta               |Média                     |Apoiador             |               |
+|Jéssica Ramos                 |Testar se o módulo de produção funciona conforme o planejado e se está integrado com qualidade e gestão de materiais                        |Alta               |Média                     |Apoiador             |               |
+|Leandro Carrijo                 |Verificar se o módulo de vendas suporta todos os processos, do pedido ao faturamento, e se funciona corretamente                        |Média               |Baixa                     |Apoiador             |               |
+|Ruan Gomes                 |Validar que o módulo de qualidade cobre inspeções, auditorias e rastreamento de não conformidades                        |Média               |Média                     |Apoiador             |               |  
+|Gislene Araújo                 |Garantir que o módulo financeiro registre transações e operações contábeis corretamente                        |Alta               |Média                     |Apoiador             |               |  
+|Mateus Lima                 |Confirmar que o módulo gere ordens de compra, controle de estoque e coordene com produção e vendas eficientemente                        |Alta               |Média                     |Apoiador             |               |  
+|Gabriella Fandim                 |Confirmar que os processos de negócios estão corretamente mapeados e otimizados no ERP                        |Alta               |Média                    |Apoiador             |               |  
+|Igor Sampaio                 |Documentar o fluxo de vendas internas, do pedido à entrega, considerando variações de processo                        |Média               |Baixa                     |Apoiador             |               |  
+|Wagner Silveira                 |Mapear os processos de exportação, conformidade, documentação e logística internacional                        |Alta              |Alta                     |Apoiador             |               |  
+|Jean Guimarães                 |Definir o fluxo de logística, desde o recebimento até a distribuição                        |Alta             |Alta                     |Apoiador             |               |  
+|Jackson Souza                 |Planejar e executar o treinamento de usuários para garantir uso eficaz do sistema ERP                        |Alta               |Média                     |Apoiador             |               |
 
 > Opções de avaliação:
 > - Expectativa: descrição da expectativa da parte interessada no projeto.
