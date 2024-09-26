@@ -181,15 +181,14 @@ A qualidade do sistema será verificada pela redução de erros operacionais e m
 
 ......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
-| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
-|-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Item de Custo                   | Descrição                                   | Qtd. horas | Valor / hora | Valor total   |
+|---------------------------------|---------------------------------------------|------------|--------------|---------------|
+| Recursos Humanos                | Equipe de desenvolvimento, consultoria ERP  | 500 horas  |  R$ 100,00   | R$ 50.000,00  |
+| Hardware                        | Servidores, computadores                    | 50 horas   |  R$ 150,00   | R$ 7.500,00   |
+| Serviços de Rede e hospedagem   |                                             | 20 horas   |  R$ 200,00   | R$ 4.000,00   |                        
+| Software de terceiros           | licenças de ERP                             | 40 horas   |  R$ 500,00   | R$ 20.000,00  |
+| Serviços e treinamento          |                                             | 150 horas  |  R$ 100,00   | R$ 15.000,00  |
+| **Total Geral**                 |                                             | 760 horas  |  R$ 1050,00  | R$ 96.500,00  |
 
 
 ## Estimativa de Prazo
