@@ -204,15 +204,19 @@ A qualidade do sistema será verificada pela redução de erros operacionais e m
 > * Data de início
 > * Data de término
 
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
-
+* Prazo previsto (960): XX horas
+* Data de início: 09/09/2024
+* Data de término: 10/03/2025
+  
 ## Escopo Preliminar e Premissas
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
+O projeto de implantação do sistema ERP visa otimizar os processos da empresa através das seguintes
+etapas:
+Primeiramente, os processos atuais serão mapeados e documentados para garantir que o sistema atenda às necessidades específicas. Dados existentes, armazenados em documentos e planilhas, serão extraídos, transformados e migrados para o ERP. Transações personalizadas serão desenvolvidas e integrações com sistemas externos serão realizadas conforme necessário. Palestras e treinamentos serão oferecidos aos colaboradores para promover a aceitação e o uso efetivo do sistema. Finalmente, o ERP será configurado, personalizado e rigorosamente testado para assegurar uma implantação bem-sucedida e a melhoria dos processos empresariais.
+
+## Requisitos de qualidade
+
+O sistema ERP deve garantir precisão e integridade dos dados, ter um desempenho rápido e uma interface intuitiva. Deve integrar bem com sistemas existentes e entre módulos, como produção e logística. A segurança dos dados deve ser robusta, e o sistema precisa ser confiável e escalável. Suporte técnico eficiente e documentação completa são essenciais para uma implementação bem-sucedida.
 
 ## Declaração de Escopo
 
@@ -277,18 +281,12 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ### Contra-Escopo
 
-......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
+Não será realizado o redesenho completo dos processos de negócios, além do mapeamento necessário. A integração com sistemas não previamente identificados não será abordada. A criação de relatórios e dashboards adicionais fora do escopo inicial e treinamentos extras não estão previstos. Além disso, ajustes ou modificações no sistema após a definição do escopo inicial não serão realizados, e qualquer customização adicional além das especificadas será excluída. A análise detalhada de novas necessidades de negócios também não será contemplada durante este projeto.
 
-A tabela a seguir apresenta as atividades que não serão executadas no projeto
-
-|ID    | Descrição do Contra-Escopo          | 
-|------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
 
 ### Condições para início do Projeto
 
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
+Primeiramente, deve-se assegurar que o mapeamento dos processos atuais da empresa esteja completo e documentado, oferecendo uma visão clara dos procedimentos a serem integrados no sistema. A disponibilidade dos dados atuais, armazenados em documentos e planilhas, é crucial para a extração e migração para o ERP. Também é necessário que todos os stakeholders estejam alinhados quanto às expectativas e aos objetivos do projeto, e que os recursos necessários, como equipe e infraestrutura, estejam adequadamente alocados. Além disso, o compromisso das partes envolvidas, incluindo a participação ativa em palestras e treinamentos, deve estar garantido para promover a aceitação e o uso efetivo do sistema.
 
 A tabela a seguir, apresente as condições para que o projeto seja iniciado.
 
