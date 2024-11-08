@@ -2,7 +2,6 @@
 
 # Projeto ERP Sabor Supremo
 
-![Imagem do ERP Sabor Supremo](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-2-gps-saborsupremo/blob/cdea94a64deb4c626d95f6172fab331e38c65cdf/images/S
 
 Este projeto visa a implementação de um sistema ERP para integrar e otimizar os processos de uma empresa do setor alimentício, promovendo a centralização de dados e aprimorando a eficiência em áreas críticas como produção, logística, vendas e controle de qualidade. Com a centralização das informações, será possível reduzir erros operacionais, melhorar a comunicação entre os setores e automatizar fluxos de trabalho, tornando as operações mais ágeis e eficazes.
 
