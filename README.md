@@ -1,7 +1,10 @@
 ![ICEI](images/icei-pucminas.png)
 
 # Projeto ERP Sabor Supremo
-![Sabor Supremo](images/SaborSupremo.png)
+<div align="center">
+  <img src="images/SaborSupremo.png" alt="Sabor Supremo" width="200" height="200">
+</div>
+
 
 Este projeto visa a implementação de um sistema ERP para integrar e otimizar os processos de uma empresa do setor alimentício, promovendo a centralização de dados e aprimorando a eficiência em áreas críticas como produção, logística, vendas e controle de qualidade. Com a centralização das informações, será possível reduzir erros operacionais, melhorar a comunicação entre os setores e automatizar fluxos de trabalho, tornando as operações mais ágeis e eficazes.
 
