@@ -6,7 +6,6 @@ Este projeto visa a implementação de um sistema ERP para integrar e otimizar o
 
 A justificativa para este projeto baseia-se na necessidade de eliminar a fragmentação de informações, aumentar a precisão nos processos e facilitar a tomada de decisões estratégicas. A empresa enfrentará melhorias significativas na produtividade e controle, garantindo maior competitividade no mercado ao otimizar o uso de seus recursos e aprimorar a gestão de suas operações.
 
-> Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
 
 ## Alunos integrantes da equipe
 
@@ -22,11 +21,14 @@ A justificativa para este projeto baseia-se na necessidade de eliminar a fragmen
 * Amália Soares Vieira de Vasconcelos
 
 ## Gerenciamento do Projeto
+| Fase                  | Atividades                                                                                                                                                                                   |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Iniciação             | Levantar os requisitos do ERP, escrever a proposta de projeto, delimitar o escopo do projeto, mobilizar a equipe do projeto, definir processos e áreas a serem otimizadas no setor alimentício. |
+| Planejamento          | Escrever histórias de usuário, planejar os gastos do projeto, escolher as tecnologias e a plataforma ERP, desenhar um roadmap/milestones, planejar a interface do sistema, desenhar a arquitetura e fluxos de dados.               |
+| Execução              | Implementar as telas e funcionalidades do ERP, configurar o banco de dados, desenvolver módulos de produção, logística, vendas e controle de qualidade, integrar componentes e validar a integração com sistemas existentes.       |
+| Monitoramento e Controle | Testar as funcionalidades, monitorar o desempenho do ERP, gerenciar os gastos e as datas de entrega, gerenciar a equipe, realizar reuniões de acompanhamento e ajustes conforme necessário.                                |
+| Encerramento          | Disponibilizar o ERP para uso, desmobilizar a equipe, realizar testes finais (alfa e beta), acompanhar os primeiros dias de funcionamento, levantar os gastos e os desafios, realizar treinamentos e avaliar resultados.        |
 
-......  COLOQUE AQUI O SEU TEXTO (OPCIONAL) ......
-
-> Adicione aqui informações sobre o projeto que será gerenciado. 
-> Indique informações importantes sobre o projeto.
 
 Fases do Gerenciamento do Projeto:
 1. [Iniciação](docs/01-iniciacao)
