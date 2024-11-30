@@ -73,7 +73,23 @@
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Matriz de responsabilidades (RACI) - Responsável pela **E**xecução, responsável pela **A**provação, deve ser **C**onsultado e deve ser **I**nformado.
+
+| Atividade  | Gerente | Equipe do projeto | Patrocinador | Coordenadores
+| ------------- | ------------- | ------------- | ------------- | -------------|
+| Iniciar o projeto | R | I | C | A |
+| Definir o escopo | R | I | A | C |
+| Elaborar a WBS | R | I | A | C |
+| Elaborar o cronograma | C | I | I | R |
+| Planejar os riscos | R | I | A | C |
+| Planejar a qualidade | C | I | A | R |
+| Planejar o projeto | R | I | A | C |
+| Monitorar o projeto | R | I | I | C |
+| Encerrar o projeto | R | C | I | A |
+| Realizar garantia da qualidade | A | C | I | R |
+| Realizar controle da qualidade | A | C | I | R |
+| Coletar requisitos | A | R | A | C |
+| Realizar testes | A | R | I | C |
 
 > A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
 > Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
@@ -96,7 +112,7 @@
 ### Documento Editável
 
 > Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável da Matriz RACI:
-- [Matriz de Responsabilidades (RACI) - Editável](artefatos/matriz-raci.docx)
+- [Matriz de Responsabilidades (RACI) - Editável](https://docs.google.com/document/d/1YoW6jEIWIJ03wfAYQDM3C6RP8gFh-3jJ3md9P9yQyzI/edit?usp=sharing)
 
 ```diff
 + Tarefa 05:
