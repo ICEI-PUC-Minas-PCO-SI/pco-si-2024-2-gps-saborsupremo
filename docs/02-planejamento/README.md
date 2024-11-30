@@ -73,7 +73,7 @@
 
 # Matriz de Responsabilidades
 
-Matriz de responsabilidades (RACI) - Responsável pela **E**xecução, responsável pela **A**provação, deve ser **C**onsultado e deve ser **I**nformado.
+Matriz de responsabilidades (RACI): Responsável pela Execução (*Responsible*), responsável pela Aprovação (*Accountable*), deve ser Consultado (*Consulted*) e deve ser Informado (*Informed*).
 
 | Atividade  | Gerente | Equipe do projeto | Patrocinador | Coordenadores
 | ------------- | ------------- | ------------- | ------------- | -------------|
