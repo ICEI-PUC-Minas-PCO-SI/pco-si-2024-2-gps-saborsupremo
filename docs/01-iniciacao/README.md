@@ -334,12 +334,11 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 |-----------------------|--------------------|----------------------------|---------------|
 | Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
 | Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
+| Documentos Textuais   | Google Docs | N/A                        |               |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
 | EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+| Cronograma do Projeto | MS Project | N/A | O MS Project é ideal para gerenciar prazos, recursos e tarefas de forma eficiente. |
+| Matriz RACI           | Google Docs | https://docs.google.com/document/d/1YoW6jEIWIJ03wfAYQDM3C6RP8gFh-3jJ3md9P9yQyzI/edit?usp=sharing | Comunicar o papel de cada profissional no projeto. |
 
 ```diff
 + Tarefa 03:
