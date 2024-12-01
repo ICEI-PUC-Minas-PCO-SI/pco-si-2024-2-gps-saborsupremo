@@ -24,5 +24,6 @@ Descrição da Pendência	Data para solução	Responsável
 Definir quais são as funcionalidades mais relevantes de cada área	20/11/2024	Jackson Souza e Pedro Bitarães
 Quanto tempo durará o treinamento	20/11/2024	Pedro Bitarães
 
+![image](https://github.com/user-attachments/assets/5ee5802e-162a-4e68-a4b8-83fed319d439)
 
 [Monitoramento.pdf](https://github.com/user-attachments/files/17970016/Monitoramento.pdf)
