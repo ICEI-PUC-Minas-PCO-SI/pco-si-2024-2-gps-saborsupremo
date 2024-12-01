@@ -121,9 +121,19 @@ Matriz de responsabilidades (RACI): Responsável pela Execução (*Responsible*)
 
 # Cronograma do Projeto
 
-......  DESCREVA EM LINHAS GERAIS O CRONOGRAMA DO SEU PROJETO AQUI ......
+
+O projeto está sendo executado de acordo com um cronograma rigoroso, com o objetivo de garantir a entrega do produto dentro do prazo e com a qualidade esperada. As principais fases do projeto são:
+
+Iniciação: Definição do escopo, identificação das partes interessadas e planejamento inicial.
+Planejamento: Detalhamento das atividades, alocação de recursos e criação do cronograma detalhado.
+Execução: Desenvolvimento das funcionalidades, testes e implementação.
+Encerramento: Validação da entrega, encerramento formal e registro das lições aprendidas.
+
+Iniciando dia 02/10/2024, previsto para finalizar dia 31/12/2024.
 
 ![cronograma1](https://github.com/user-attachments/assets/d0b0eed4-8824-4148-9c1f-714ca2e9c84d)
+
+![cronograma2](https://github.com/user-attachments/assets/96ef3575-57eb-4dc8-a300-65cb60a662dd)
 
 
 > O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
@@ -131,10 +141,6 @@ Matriz de responsabilidades (RACI): Responsável pela Execução (*Responsible*)
 > Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
 > Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
 
-### Documento Editável
-
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Cronograma do Projeto:
-- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
 
 ```diff
 + Tarefa 07:
