@@ -136,12 +136,6 @@ Iniciando dia 02/10/2024, previsto para finalizar dia 31/12/2024.
 ![cronograma2](https://github.com/user-attachments/assets/96ef3575-57eb-4dc8-a300-65cb60a662dd)
 
 
-> O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
-> Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
-> Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
-> Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
-
-
 ```diff
 + Tarefa 07:
 + Fim da seção a ser atualizada.
@@ -155,18 +149,15 @@ Iniciando dia 02/10/2024, previsto para finalizar dia 31/12/2024.
 
 # Orçamento do Projeto
 
-......  DESCREVA EM LINHAS GERAIS O ORÇAMENTO DO SEU PROJETO AQUI ......
+O orçamento se baseia em valores pesquisados detalhadamente na intenet para distribuir de forma justa salários e avaliar os preços de melhores materiais para o projeto. 
+O valor total de custo de colaboradores é 60.716,00. 
+O valor total de custo de equipamento é 50.109,11.
+O valor total de custo de outros recursos é 7.575,00.
+Com isso, o total geral de custos ficou com 118,400.11. Ultrapassando em 18.400,11 o orçamento inicial do projeto. Mas isso pode ser avaliado melhor para que almentemos o tempo de execução do projeto para diminuir os custos e alcançar a meta inicial.
 
-> O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
-> O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
-> Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
-> A gestão do orçamento não apenas ajuda a controlar os custos, mas também fornece transparência e prestação de contas, permitindo que gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
-> Assim, o orçamento contribui para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
+![orçamento1](https://github.com/user-attachments/assets/0436752f-d09c-415f-b8c9-5396827efdc6)
+![orçamento2](https://github.com/user-attachments/assets/c2cac40a-80d7-4e01-aedc-5c36be347b96)
 
-### Documento Editável
-
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável do Orçamento do Projeto:
-- [Cronograma e Orçamento do Projeto - Editável](artefatos/cronograma_orcamento.pod)
 
 ```diff
 + Tarefa 08:
