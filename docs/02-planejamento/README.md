@@ -360,56 +360,18 @@ Com isso, o total geral de custos ficou com 118,400.11. Ultrapassando em 18.400,
 
 ## Plano de Riscos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
-> O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
-> Este documento estratégico oferece uma visão global dos riscos, categorizando-os e delineando estratégias para lidar com cada uma das possíveis adversidades. 
-> Inicialmente, é realizada a identificação detalhada dos riscos, abrangendo desde ameaças imprevistas até oportunidades que podem ser exploradas. 
-> Uma vez catalogados, os riscos são avaliados quanto à sua probabilidade de ocorrência e impacto, permitindo a priorização e foco em áreas críticas.
->
-> O plano de riscos não apenas destaca os perigos em potencial, mas também estabelece respostas e estratégias de contingência. 
-> Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
-> Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
->
-> Você pode utilizar como referência o seguinte documento:
-- [Plano de Gerenciamento de Riscos - Editável](artefatos/plano_riscos.xls)
+Abaixo segue o plano de risco elaborado para a implantação do sistema ERP para o cliente Sabor Supremo:
 
 | Categoria do Risco  | Descrição do Risco | Impacto       | Risco         | Medidas de Prevenção (Contramedidas) | Medidas de Contingência (Mitigação) | 
 |---------------------|--------------------|---------------|---------------|--------------------------------------|-------------------------------------|
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-|                     |                    |               |               |                                      |                                     |
-
-> Indique:
-> Categoria do Risco: *ex.: Cliente, Cronograma, Orçamento, Aquisição de produtos, etc*
-> Descrição do Risco: *ex.: Cliente não aparenta ter muito interesse no projeto*
-> Impacto: *Baixo / Médio / Alto*
-> Risco: *Baixo / Médio / Alto*
-> Medidas de Prevenção: *Medidas que devem ser adotadas para evitar que o risco se concretize*
-> Medidas de Contingência: *Medidas que devem ser adotadas caso o risco se concretize*
->
-> *Obs.: Para determinar o risco considere a seguinte combinação entre Probabilidade e Impacto:
-
-| Probabilidade | Impacto       | Risco         |
-|---------------|---------------|---------------|
-| Baixo         | Baixo         | Baixo         |
-| Médio         | Médio         | Médio         |
-| Alto          | Alto          | Alto          |
-| Baixo         | Médio         | Médio         |
-| Médio         | Baixo         | Médio         |
-| Baixo         | Alto          | Médio         |
-| Alto          | Baixo         | Médio         |
-| Médio         | Alto          | Alto          |
-| Alto          | Médio         | Alto          |
-
+| Cliente             | Cliente não apresenta ter muito interesse no projeto | Médio         | Médio         | Definir corretamente os alinhamentos de expectativas                                                                | Realizar reuniões semanais de alinhamento de objetivos de projeto com cliente                                    |
+| Cliente             | Mudança de requisito de projeto repentinamente       | Alto          | Alto          | Estabelecr normas previamente no contrato advertindo sobre alterações de projeto                                    | Realizar uma nova proposta contratual estabelecendo alterações como adendos do contrato perante a pagamento e alteração no cronograma                                    |
+| Empresa             | Queima de peças de computador/recursos de TI         | Alto          | Médio         | Realizar limpeza/manutenção e auditorias de boas práticas de utilização de hardware                                 | Solicitar peças de hardware para manutenção                                    |
+| Empresa             | Mapeamento de processos inadequados                  | Alto          | Alto          | Revisar manutenção do processo e realizar auditorias                                                                | Estabelecer novas medidas de processos rápidamente                                    |
+| Empresa             | Falha de controle orçamentário                       | Alto          | Médio         | Realizar cotação do projeto com margem de erro                                                                      | Fazer acordos e verificar ofertas de preços melhores                                    |
+| Empresa             | Falha de cumprimento de prazo na entrega do projeto  | Médio         | Alto          | Realizar alinhamento de novas datas e justificar o motivo da alteração de prazos para o cliente                     | Cumprir com metas de prazos e melhorar na estimação dos prazos                                    |
+| Empresa             | Problemas de interoperabilidade                      | Alto          | Alto          | Analisar se os tipos de dados necessários para transação são compatíveis com as integrações realizadas pelo sistema | Realizar processo de "reverse" para versões onde a interoperabilidade está funcional                                    |
+| Cliente             | Dificuldade em adaptação ao uso do produto           | Médio         | Baixo         | Realizar treinamento de capacitação com o cliente                                                                   | Construir um sistema o mais "simples" possível e alinhado com a experiência do usuário                                    |
 
 ```diff
 + Tarefa 12:
