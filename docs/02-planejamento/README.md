@@ -306,8 +306,6 @@ Com isso, o total geral de custos ficou com 118,400.11. Ultrapassando em 18.400,
 
 | Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
 |------------------------------------|--------------|------------------|-------------|-------------|
-| Documento                       | Destinatários            | Método                | Frequência | Responsável                          |
-|---------------------------------|--------------------------|-----------------------|------------|--------------------------------------|
 | Ata de reunião                  | Colaboradores da empresa | E-mail                | Uma vez    | Pedro Bitarães                       |
 | Declaração de escopo            | Colaboradores da empresa | Reunião presencial    | Uma vez    | Pedro Bitarães                       |
 | WBS                             | Colaboradores da empresa | Reunião presencial    | Uma vez    | Pedro Bitarães                       |
