@@ -1,10 +1,5 @@
 # Monitoramento
-
-O monitoramento da implantação do novo sistema para a empresa Sabor Supremo, segue através de reuniões agendadas contemplando o planejamento de todo o escopo do projeto. Foram dedicados 21 dias apenas para execução e controle das ações que serão executadas como por exemplo o controle de mudanças de escopo.
-# Estrutura do Documento
-
-- [Fase de Monitoramento](#monitoramento)
-- [Atas de Reunião](#atas-de-reunião)
+O monitoramento da implantação do novo sistema para a empresa Sabor Supremo, segue através de reuniões agendadas contemplando o planejamento de todo o escopo do projeto. Foram dedicados 21 dias apenas para execução e controle das ações que serão executadas como por exemplo o controle de mudanças de escopo. Após a implantação do novo sistema serão realizadas monitoramente em rodada toda semana monitorando a utilização dos usuários e sanando dúvidas que podem surgir além de problemas que podem ser solucionados.
 
 # Participantes
 Pedro Bitarães 	nicolas.ferreira@saborsupremo.com	Gerente do Projeto
