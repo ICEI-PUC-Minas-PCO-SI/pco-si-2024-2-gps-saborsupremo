@@ -268,15 +268,9 @@ Com isso, o total geral de custos ficou com 118,400.11. Ultrapassando em 18.400,
 
 ## Plano de Aquisição
 
-> O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
-> Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
-> O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
-> Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
-
 ### Documento Editável
 
-> Você deve atualiza o seguinte link (ou link correspondente), como o arquivo editável de geração da WBS:
-- [Especificação Produto Aquisição - Editável](artefatos/aquisicao_produtos.docx)
+- [Especificação Produto Aquisição - Editável](artefatos/Template - Solicitação de compra-1.pdf)
 
 
 ```diff
