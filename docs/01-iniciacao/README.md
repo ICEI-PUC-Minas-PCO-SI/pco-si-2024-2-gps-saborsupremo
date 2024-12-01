@@ -302,24 +302,26 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+A escolha de metodólogia nesse projeto para a empresa Sabor Supremo, foi a metodólogia Kanban pelos benefícios tragos para o projeto.
+
+Visibilidade do Trabalho: O Kanban utiliza cartões em um quadro que representam tarefas em diferentes fases do processo. Isso proporciona uma visualização clara do progresso e das prioridades, facilitando o acompanhamento de cada tarefa.
+
+Flexibilidade: Diferente de outras metodologias que requerem planejamento rígido, o Kanban é altamente adaptável a mudanças. Permite ajustes conforme novas informações ou prioridades surgem.
+
+Redução de Gargalos: Ao limitar o número de tarefas em andamento, o Kanban ajuda a identificar e reduzir gargalos, melhorando o fluxo de trabalho e a eficiência.
+
+Melhoria Contínua: Através do feedback contínuo e das retrospectivas, as equipes podem identificar áreas de melhoria e implementar mudanças incrementais para otimizar o processo.
+
+Foco no Valor: O Kanban incentiva a priorização de tarefas com maior valor para o cliente, garantindo que os esforços da equipe estejam alinhados com os objetivos estratégicos.
+
+Colaboração da Equipe: A metodologia promove a comunicação e a colaboração, permitindo que todos os membros da equipe estejam cientes das responsabilidades e do progresso das tarefas.
+
+Facilidade de Implementação
+
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+![image](https://github.com/user-attachments/assets/47892fdd-475b-4ebc-8402-ab1eaeac9751)
 
 ## Ferramentas
 
