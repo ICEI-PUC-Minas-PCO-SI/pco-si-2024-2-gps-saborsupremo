@@ -329,7 +329,6 @@ Facilidade de Implementação
 | Quadro Kanban         | Github             | [Kanban- Projeto ERP.pdf](https://github.com/user-attachments/files/17970085/Cronograma.-.Projeto.ERP.pdf) | Centralização e organização do projeto no próprio repositório. |
 | Documentos Textuais   | Google Docs | N/A                        |               |
 | Cronograma do Projeto | MS Project |[Cronograma - Projeto ERP.pdf](https://github.com/user-attachments/files/17970085/Cronograma.-.Projeto.ERP.pdf)
-
 | Matriz RACI           | Google Docs | https://docs.google.com/document/d/1YoW6jEIWIJ03wfAYQDM3C6RP8gFh-3jJ3md9P9yQyzI/edit?usp=sharing | Comunicar o papel de cada profissional no projeto. |
 
 ```diff
