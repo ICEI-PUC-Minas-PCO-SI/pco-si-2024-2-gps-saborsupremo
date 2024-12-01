@@ -306,20 +306,23 @@ Com isso, o total geral de custos ficou com 118,400.11. Ultrapassando em 18.400,
 
 | Entregável                         | Público Alvo | Met. Comunicação | Frequência  | Responsável | 
 |------------------------------------|--------------|------------------|-------------|-------------|
-| Ata de reunião                     |              |                  |             |             |
-| Declaração de escopo               |              |                  |             |             |
-| WBS                                |              |                  |             |             |
-| Dicionário da WBS                  |              |                  |             |             |
-| Cronograma                         |              |                  |             |             |
-| Lista de Riscos                    |              |                  |             |             |
-| Plano de qualidade                 |              |                  |             |             |
-| Plano de projeto                   |              |                  |             |             |
-| Relatório de Progresso             |              |                  |             |             |
-| Relatório de Aderência ao Processo |              |                  |             |             |
-| Checklists de Inspeção             |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
-|                                    |              |                  |             |             |
+| Documento                       | Destinatários            | Método                | Frequência | Responsável                          |
+|---------------------------------|--------------------------|-----------------------|------------|--------------------------------------|
+| Ata de reunião                  | Colaboradores da empresa | E-mail                | Uma vez    | Pedro Bitarães                       |
+| Declaração de escopo            | Colaboradores da empresa | Reunião presencial    | Uma vez    | Pedro Bitarães                       |
+| WBS                             | Colaboradores da empresa | Reunião presencial    | Uma vez    | Pedro Bitarães                       |
+| Dicionário da WBS               | Colaboradores da empresa | Reunião presencial    | Uma vez    | Pedro Bitarães                       |
+| Cronograma                      | Colaboradores da empresa | Microsoft Outlook     | Uma vez    | Pedro Bitarães                       |
+| Lista de Riscos                 | Envolvidos no projeto    | Microsoft Outlook     | Mensal     | Pedro Bitarães                       |
+| Plano de qualidade              | Equipe do projeto        | Microsoft Outlook     | Uma vez    | Ana Clara Ferreira (Especialista em Qualidade) |
+| Plano de projeto                | Equipe do projeto        | Reunião presencial    | Uma vez    | Pedro Bitarães                       |
+| Relatório de Progresso          | Equipe do projeto        | Reunião presencial    | Semanal    | Pedro Bitarães                       |
+| Relatório de Aderência ao Processo | Equipe do projeto        | Microsoft Outlook     | Semanal    | Gabriella Fandim (Analista de Negócios) |
+| Checklists de Inspeção          | Equipe de qualidade      | Microsoft Outlook     | Diário     | Ana Clara Ferreira (Especialista em Qualidade) |
+| Documentação do ERP             | Colaboradores da empresa | Microsoft Outlook     | Uma vez    | Pedro Bitarães                       |
+| Documentação do banco de dados  | Equipe de TI             | Microsoft Outlook     | Uma vez    | Larissa Corrêa (Administradora de Banco de Dados) |
+| Relatórios de controle de custos | Equipe do projeto        | Microsoft Outlook     | Uma vez    | Pedro Bitarães                       |
+
 
 > Legenda:
 > - Público: a quem se destina a comunicação.
@@ -329,27 +332,25 @@ Com isso, o total geral de custos ficou com 118,400.11. Ultrapassando em 18.400,
 
 ### Plano de Gerência de Comunicação
 
-> Indique:
-> - Ferramentas utilizadas no projeto - adicionar link de acesso às ferramentas
-> - Papéis: responsáveis pelas correspondentes no projeto
-> - Princípios gerais: indica quais princípios serão adotados no plano de comunicação, como clareza, objetividade, impessoalidade, imparcialidade e cordialidade. Detalhar.
->
-> Plano de Gerência de Configuração: definir, em linhas gerais, como (ferramenta) serão controladas e distribuídas as versões e se haverá algum controle de responsabilidades.
-
 - Ferramentas utilizadas:
-- - [Ferramenta 01](https://pucminas.br)
-  - [Ferramenta 02](https://pucminas.br)
-  - [Ferramenta 03](https://pucminas.br)
-- Papéis:
-- - ...
-  - ...
-  - ...
-- Princípios gerais
-- - ...
-  - ...
-  - ...
-  - ...
+- Microsoft SharePoint: https://www.microsoft.com/pt-br/microsoft
+- 365/sharepoint/collaboration   
+- Jira: https://www.atlassian.com/br/software/jira/features 
+- GitHub: https://github.com/ 
+- Shankia: https://www.sankhya.com.br/
 
+- Papéis:
+- Pedro Bitarães (Gerente do Projeto): Responsável por coordenar atividades e definir 
+prioridades em cada fase do atendimento; 
+- Jackson Souza (Analista de Sistemas): Executar ações definidas pelo escopo de projetos pelo 
+Gerente; 
+- Ana Clara Ferreira (Especialista em Qualidade): Controlar versionamento de código e 
+documentação do sistema;
+
+- Princípios gerais: Realizar abertura de chamados (OS’s) para equipe técnica realizar ações 
+para suprir as demandas e necessidades do projeto.  Prazo padrão de resposta: SLA 048 horas. 
+Após a resposta a demanda poderá ser definido um novo prazo e prioridade com base na 
+importância das demandas. 
 ```diff
 + Tarefa 11:
 + Fim da seção a ser atualizada.
