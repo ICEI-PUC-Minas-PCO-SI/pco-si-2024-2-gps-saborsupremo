@@ -24,6 +24,6 @@ Nessa etapa será realizada a instalação dos servidores adquiridos pelo setor 
 
 - Suporte a LTS (Long Term Support): As versões LTS do Ubuntu recebem suporte e atualizações por cinco anos, garantindo estabilidade e segurança a longo prazo.
 
-A etapa de execução na instalação de forma específica será realizada pela equipa de Tecnologia da Informação (T.I.), cordenada pelo Análista de TI Jackson Souza
+A etapa de execução na instalação de forma específica será realizada pela equipa de Tecnologia da Informação (T.I.), cordenada pelo Análista de TI Jackson Souza.
 
 ![Imagem do WhatsApp de 2024-09-14 à(s) 13 25 35_94133fbd](https://github.com/user-attachments/assets/120bb643-c788-411a-a3de-f4450c91d05a)
