@@ -25,3 +25,4 @@ Definir quais são as funcionalidades mais relevantes de cada área	20/11/2024	J
 Quanto tempo durará o treinamento	20/11/2024	Pedro Bitarães
 
 
+[Monitoramento.pdf](https://github.com/user-attachments/files/17970016/Monitoramento.pdf)
