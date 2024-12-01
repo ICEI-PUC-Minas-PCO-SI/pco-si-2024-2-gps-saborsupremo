@@ -270,7 +270,7 @@ Com isso, o total geral de custos ficou com 118,400.11. Ultrapassando em 18.400,
 
 ### Documento Editável
 
-- [Especificação Produto Aquisição - Editável](artefatos/Template - Solicitação de compra-1.pdf)
+- [Especificação Produto Aquisição - Editável](artefatos/template_solicitacao_de_compra-1.pdf)
 
 
 ```diff
