@@ -22,32 +22,40 @@
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-> Utilize como referência a documentação existente na [Fase de Iniciação](/docs/01-iniciacao).
+Implementar um sistema ERP para integrar e otimizar os processos empresariais da empresa Sabor Supremo.
+
+
+Escopo do projeto/produto (etapas do ciclo de vida e objetivo de cada uma)
+Iniciação
+Definir o escopo, metas e requisitos iniciais do projeto.
+Planejamento
+ Elaborar o plano de execução, cronograma e alocação de recursos.
+Desenvolvimento
+ Desenvolver o sistema ERP, abrangendo as áreas de produção, logística e vendas.
+Implementação
+ Implantar o sistema ERP nos processos da empresa e realizar os treinamentos necessários.
+Encerramento
+Concluir o projeto com a entrega final e formalizar o fechamento após a homologação do sistema.
+
+Limites do projeto (o que não será feito)
+O projeto não inclui  a integração com sistemas externos.
+Não está prevista a customização para outras áreas além de produção, logística e vendas.
+Restrições (o que restringe/condiciona o projeto)
+O sistema deve ser implementado dentro de um prazo de 6 meses.
+O orçamento está limitado a R$100.000,00.
+O sistema deve ser compatível com a infraestrutura de TI existente na empresa.
+Premissas (condições para iniciar o projeto)
+
+As informações e requisitos fornecidos pelos stakeholders são precisas e completos.
+A equipe de desenvolvimento terá acesso total aos dados e sistemas atuais da empresa.
+Os recursos e infraestrutura necessários para o projeto estarão disponíveis conforme o orçado no inicio do projeto.
 
 # Estrutura Analítica do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+![image](https://github.com/user-attachments/assets/ffb412b5-26ea-4155-b178-b3c8d6fb45ad)
 
-> A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
-> Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
-> Cada elemento na estrutura representa uma parcela específica do trabalho a ser realizado, proporcionando clareza sobre as inter-relações entre as diferentes partes do projeto. 
-> A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
-> Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
 
-> Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
-
-![Estrutura Analítica do Projeto](images/exemplo_wbs.png)
-
-> Softwares recomendados: 
-> * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
-> * [Draw.io](https://app.diagrams.net/)
-> * [ProjectLibre](https://www.projectlibre.com/)
 
 ### Documento Editável
 
