@@ -333,12 +333,10 @@ Facilidade de Implementação
 
 | Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
 |-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
+| Quadro Kanban         | Github             | [Kanban- Projeto ERP.pdf](https://github.com/user-attachments/files/17970085/Cronograma.-.Projeto.ERP.pdf) | Centralização e organização do projeto no próprio repositório. |
 | Documentos Textuais   | Google Docs | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | MS Project | N/A | O MS Project é ideal para gerenciar prazos, recursos e tarefas de forma eficiente. |
+| Cronograma do Projeto | MS Project |[Cronograma - Projeto ERP.pdf](https://github.com/user-attachments/files/17970085/Cronograma.-.Projeto.ERP.pdf)
+
 | Matriz RACI           | Google Docs | https://docs.google.com/document/d/1YoW6jEIWIJ03wfAYQDM3C6RP8gFh-3jJ3md9P9yQyzI/edit?usp=sharing | Comunicar o papel de cada profissional no projeto. |
 
 ```diff
@@ -346,4 +344,3 @@ Facilidade de Implementação
 + Fim da seção a ser atualizada.
 ```
 
-----
