@@ -300,7 +300,6 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
 A escolha de metodólogia nesse projeto para a empresa Sabor Supremo, foi a metodólogia Kanban pelos benefícios tragos para o projeto.
 
