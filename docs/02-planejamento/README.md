@@ -150,9 +150,9 @@ Iniciando dia 02/10/2024, previsto para finalizar dia 31/12/2024.
 # Orçamento do Projeto
 
 O orçamento se baseia em valores pesquisados detalhadamente na intenet para distribuir de forma justa salários e avaliar os preços de melhores materiais para o projeto. 
-O valor total de custo de colaboradores é 60.716,00. 
-O valor total de custo de equipamento é 50.109,11.
-O valor total de custo de outros recursos é 7.575,00.
+- O valor total de custo de colaboradores é 60.716,00. 
+- O valor total de custo de equipamento é 50.109,11.
+- O valor total de custo de outros recursos é 7.575,00.
 Com isso, o total geral de custos ficou com 118,400.11. Ultrapassando em 18.400,11 o orçamento inicial do projeto. Mas isso pode ser avaliado melhor para que almentemos o tempo de execução do projeto para diminuir os custos e alcançar a meta inicial.
 
 ![orçamento1](https://github.com/user-attachments/assets/0436752f-d09c-415f-b8c9-5396827efdc6)
